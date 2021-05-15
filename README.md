@@ -4,6 +4,8 @@ A PowerApps and SharePoint based solution for organizations to collect vaccinati
 
 Please use guide in this repo to follow step by step intructions on how to setup in your tenant.
 
+Developed by [Siddharth Vaghasia](https://www.linkedin.com/in/siddharthvaghasia/) and [Mayuresh Joshi](https://www.linkedin.com/in/mayure5h/)
+
 # Brief about Application
 
 •	As with current situation on Covid, it is important to get ourselves vaccinated. All the countries governments are running vaccination drive. 
