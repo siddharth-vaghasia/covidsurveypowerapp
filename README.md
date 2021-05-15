@@ -6,6 +6,8 @@ Please use the [guide](https://github.com/siddharth-vaghasia/covidsurveypowerapp
 
 Developed by [Siddharth Vaghasia](https://www.linkedin.com/in/siddharthvaghasia/) and [Mayuresh Joshi](https://www.linkedin.com/in/mayure5h/)
 
+New features coming soon...!! Feel free to provide your feedback.
+
 # Brief about Application
 
 •	As with current situation on Covid, it is important to get ourselves vaccinated. All the countries governments are running vaccination drive. 
