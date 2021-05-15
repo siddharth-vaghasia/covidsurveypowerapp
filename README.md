@@ -1,8 +1,8 @@
 # Covid Vaccination Survey PowerApp
 
-A PowerApps and SharePoint based solution for organizations to collect vaccination survey(data) from thier employee about this vaccination status. 
+A PowerApps and SharePoint-based solution for organizations to collect vaccination surveys (data) from their employee about this vaccination status. 
 
-Please use [guide](https://github.com/siddharth-vaghasia/covidsurveypowerapp/blob/main/Covid19VaccinationSurvey%20Setup%20Guide.docx) in this repo to follow step by step intructions on how to setup in your tenant.
+Please use the [guide](https://github.com/siddharth-vaghasia/covidsurveypowerapp/blob/main/Covid19VaccinationSurvey%20Setup%20Guide.docx) in this repo to follow step by step intructions on how to setup in your tenant.
 
 Developed by [Siddharth Vaghasia](https://www.linkedin.com/in/siddharthvaghasia/) and [Mayuresh Joshi](https://www.linkedin.com/in/mayure5h/)
 
